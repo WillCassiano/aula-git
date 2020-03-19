@@ -1,4 +1,7 @@
-"Não há certezas, apenas oportunidades." (V de Vingança)
+﻿"Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga \’olá\’ para meu pequeno amigo\!" (Scarface)
 "Hasta la vista, baby." (Exterminador do Futuro 2)
 Alô moçada
+
+
+Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo
